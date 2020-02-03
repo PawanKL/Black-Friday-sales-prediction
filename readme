@@ -1,0 +1,25 @@
+Code Execution
+Method(1)
+python3 model.py
+Method(2)
+Open jupyter and upload mode.ipynb on your working folder and run all
+
+
+What program ask?
+
+1.normalize data?
+0 for not
+1 for yes
+2. Choice for algorithm
+
+1- Linear Regression
+2- Random Forest
+3- KNN
+
+3. do u want to exit? y for exit any letter to continue..
+
+
+Results are shown in the code.. output
+and also mentioned in report
+
+
